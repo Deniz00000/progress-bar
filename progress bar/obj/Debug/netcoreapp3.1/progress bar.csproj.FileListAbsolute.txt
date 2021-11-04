@@ -1,0 +1,16 @@
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.exe
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.deps.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.runtimeconfig.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.runtimeconfig.dev.json
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.dll
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\bin\Debug\netcoreapp3.1\progress bar.pdb
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.csproj.AssemblyReference.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress_bar.Form1.resources
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.csproj.GenerateResource.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.AssemblyInfoInputs.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.AssemblyInfo.cs
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.csproj.CoreCompileInputs.cache
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.dll
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.pdb
+C:\Users\SAPPHİRE\Desktop\Yeni klasör\progress bar\progress bar\obj\Debug\netcoreapp3.1\progress bar.genruntimeconfig.cache
